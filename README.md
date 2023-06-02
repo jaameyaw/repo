@@ -34,7 +34,7 @@ There's a folder called sreenshot in my repositry. Insdie are the screenshot. I 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jaameyaw/repo)
+- Solution URL: [https://lovely-testimonial.netlify.app/]
 ## My process
 
 ### Built with
@@ -65,12 +65,12 @@ I'm yet to complete CSS. It's left css transitions, css animation, css transform
 
 ### Useful resources
 
-- [Example resource 1](https://colorhunt.co/) - This helped me for picking color. I really liked this pattern and will use it going forward.
+- [(https://colorhunt.co/) - This helped me for picking color. I really liked this pattern and will use it going forward.]
 
 
 ## Author
 
 - Website - i don't have one yet
-- Frontend Mentor - [@jaameyaw](https://www.frontendmentor.io/profile/jaameyaw)
-- Instagram - [@johnson_ameyaw](https://www.instagram.com/johnson_ameyaw)
+- Frontend Mentor - [(https://www.frontendmentor.io/profile/jaameyaw)]
+- Instagram - [(https://www.instagram.com/johnson_ameyaw)]
 
