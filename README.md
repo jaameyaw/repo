@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/desktop-desgin.jpg)
+![](./screenshots/desktop-desgin.jpg)
 
-There's a folder called sreenshot in my repositry. Insdie are the screenshot. I took 3 screenshots... desktop-view, desktop-view1, mobile-view
 
 ### Links
 
